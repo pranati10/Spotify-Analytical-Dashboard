@@ -24,8 +24,8 @@ Our visualizations are the staves on which the notes of data play to reveal patt
 
 ### 🎙️ The Dataset Encore
 
-- `Summary-Spotify.pdf`: The executive summary, narrating the project's high notes.
-- `Data-spotify-2023.csv`: The raw melody—our dataset, the foundation of our analysis.
+- `Spotify_Analysis_Report.pdf`: The executive summary, narrating the project's high notes.
+- `Data-spotify-2025.csv`: The raw melody—our dataset, the foundation of our analysis.
 - `Main-Spotify.twbx`: The conductor's baton—our Tableau workbook, orchestrating the data into visual harmony.
 
 ## 🎨 Gallery of Harmonies
@@ -80,8 +80,8 @@ This analysis is an echo chamber of the digital music landscape, resounding with
 
 ## 🎵 How to Orchestrate the Data
 
-1. Download the `Data-spotify-2023.csv` to craft your own rhythm of analysis.
-2. Peruse the `Summary-Spotify.pdf` for a behind-the-scenes look at the insights.
+1. Download the `Data-spotify-2025.csv` to craft your own rhythm of analysis.
+2. Peruse the `Spotify_Analysis_Dashboard.pdf` for a behind-the-scenes look at the insights.
 3. Conduct the `Main-Spotify.twbx` in Tableau for an interactive data symphony.
 
 ## 🎹 Contributing to the Concerto
